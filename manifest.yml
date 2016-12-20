@@ -4,6 +4,6 @@ applications:
   memory: 128M
   instances: 1
   name: watson-chat-orchestrator-v4
-  host: cc1
+  host: cc1-5136
   disk_quota: 1024M
   buildpack: python_buildpack
